@@ -2,4 +2,4 @@ INSERT INTO burger (burger_name, devoured) VALUES ('BBQ BACON CHEESEBURGER', fal
 INSERT INTO burger (burger_name, devoured) VALUES ('JUMBO JACK', false);
 INSERT INTO burger (burger_name, devoured) VALUES ('OLD TIMER', true);
 INSERT INTO burger (burger_name, devoured) VALUES ('SPICY JALAPENO BAJA', true);
-INSERT INTO burger (burger_name, devoured) VALUES ('KRUSTY BURGER', true);
+INSERT INTO burger (burger_name, devoured) VALUES ('KRUSTY KRAB BURGER', true);
