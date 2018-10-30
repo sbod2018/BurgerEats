@@ -1,33 +1,37 @@
-.jumbotron{
-    background-color: #6f5499;
-    color: #cdbfe3;
-    padding-bottom: 0px;
-    margin-bottom: 0px;
+.jumbotron {
+    background-image: url("/assets/img/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: 10px;
 }
 
-.panel-default>.panel-heading {
+.jumbotron > h1 {
+    font-family: 'Creepster', cursive;
+}
+
+#newburger {
+    border-radius: 5px;
+}
+
+#color-override {
     color: #fff;
-    background-color: #0275d8
 }
 
-.intro{
-    background-color: #6f5499;
-    color: #cdbfe3;
-    width: 400px;
+#lefthead {
+    background-color: #5cb85c;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
 }
 
-img{
-    vertical-align: middle;
-    width: 200px;
-    padding: 10px
+#eatbutton, #trashbutton {
+    float: right;
 }
 
-h1{
-    font-family: Barrio;
-    font-size: 52px;
-}
-
-body{
-    background-color: #f9f5d2;
-    background-image: url("/assets/img/restaurant.png")
+#righthead {
+    background-color: #f0ad4e;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
 }
