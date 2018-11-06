@@ -9,15 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GrissomErick/Eat-Da-Burger.git"
+    "url": "https://github.com/sbod2018/BurgerEats"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GrissomErick/Eat-Da-Burger/issues"
-  },
-  "homepage": "https://github.com/GrissomErick/Eat-Da-Burger#readme",
+   },
+  
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.3",
